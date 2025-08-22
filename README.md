@@ -56,6 +56,11 @@ contexts:
 
 Should work. If it doesn't, [file an issue], we'll help.
 
+## Using with IntelliJ (with LSP4IJ)
+
+Install [LSP4IJ](https://github.com/redhat-developer/lsp4ij) a free LSP support for IntelliJ 
+and follows [this documentation](https://github.com/redhat-developer/lsp4ij/blob/main/docs/user-defined-ls/eo-lsp-server.md).
+
 ## How to Contribute
 
 First, install [Node] modules with:
